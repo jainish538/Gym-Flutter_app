@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Paneer Butter Masala",
+    "name_lowercase": "paneer butter masala",
+    "calories": 350,
+    "protein": 12,
+    "carbs": 14,
+    "fats": 28,
+    "fiber": 2,
+    "servingSize": "1 bowl (200g)"
+  },
+  {
+    "name": "Roti (Phulka)",
+    "name_lowercase": "roti (phulka)",
+    "calories": 85,
+    "protein": 3,
+    "carbs": 18,
+    "fats": 1,
+    "fiber": 2,
+    "servingSize": "1 piece"
+  },
+  {
+    "name": "Masala Dosa",
+    "name_lowercase": "masala dosa",
+    "calories": 310,
+    "protein": 6,
+    "carbs": 55,
+    "fats": 10,
+    "fiber": 4,
+    "servingSize": "1 medium dosa"
+  },
+  {
+    "name": "Dal Tadka",
+    "name_lowercase": "dal tadka",
+    "calories": 180,
+    "protein": 9,
+    "carbs": 25,
+    "fats": 6,
+    "fiber": 7,
+    "servingSize": "1 bowl"
+  },
+  {
+    "name": "Almonds (Badam)",
+    "name_lowercase": "almonds (badam)",
+    "calories": 70,
+    "protein": 3,
+    "carbs": 2,
+    "fats": 6,
+    "fiber": 1,
+    "servingSize": "10 pieces"
+  },
+  {
+    "name": "Cashews (Kaju)",
+    "name_lowercase": "cashews (kaju)",
+    "calories": 90,
+    "protein": 3,
+    "carbs": 4,
+    "fats": 7,
+    "fiber": 1,
+    "servingSize": "10 pieces"
+  },
+  {
+    "name": "Walnuts (Akhrot)",
+    "name_lowercase": "walnuts (akhrot)",
+    "calories": 130,
+    "protein": 3,
+    "carbs": 3,
+    "fats": 13,
+    "fiber": 2,
+    "servingSize": "5 pieces"
+  },
+  {
+    "name": "Masala Chai",
+    "name_lowercase": "masala chai",
+    "calories": 90,
+    "protein": 3,
+    "carbs": 12,
+    "fats": 4,
+    "fiber": 0,
+    "servingSize": "1 cup (150ml)"
+  },
+  {
+    "name": "Buttermilk (Chaas)",
+    "name_lowercase": "buttermilk (chaas)",
+    "calories": 40,
+    "protein": 2,
+    "carbs": 4,
+    "fats": 2,
+    "fiber": 0,
+    "servingSize": "1 glass (200ml)"
+  },
+  {
+    "name": "Poha",
+    "name_lowercase": "poha",
+    "calories": 180,
+    "protein": 3,
+    "carbs": 35,
+    "fats": 4,
+    "fiber": 3,
+    "servingSize": "1 plate"
+  },
+  {
+    "name": "Dhokla",
+    "name_lowercase": "dhokla",
+    "calories": 160,
+    "protein": 6,
+    "carbs": 25,
+    "fats": 4,
+    "fiber": 2,
+    "servingSize": "3 pieces"
+  },
+  {
+    "name": "Gulab Jamun",
+    "name_lowercase": "gulab jamun",
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fats": 7,
+    "fiber": 0,
+    "servingSize": "1 piece"
+  }
+]
